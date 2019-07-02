@@ -1,0 +1,22 @@
+fields:
+    enabled:
+        label: 'Enabled'
+        span: full
+        type: switch
+    media_url:
+        label: 'Media URL'
+        span: full
+        type: text
+    css_url:
+        label: 'CSS URL'
+        span: full
+        type: text
+    scripts_url:
+        label: 'Scripts URL'
+        span: full
+        type: text
+    local_url:
+        label: 'Local URL'
+        comment: "The URL that won't be overwritten"
+        span: full
+        type: text

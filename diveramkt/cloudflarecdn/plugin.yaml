@@ -1,0 +1,10 @@
+plugin:
+    name: 'diveramkt.cloudflarecdn::lang.plugin.name'
+    description: 'diveramkt.cloudflarecdn::lang.plugin.description'
+    author: DiveraMkt
+    icon: oc-icon-cloud
+    homepage: ''
+permissions:
+    manage_cloudflarecdn:
+        tab: 'diveramkt.cloudflarecdn::lang.plugin.name'
+        label: 'diveramkt.cloudflarecdn::lang.cloudflarecdn.manage_cloudflarecdn'
